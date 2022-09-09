@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/line_topleft.png</file>
+        <file>img/line_topright.png</file>
+        <file>img/circle.png</file>
+        <file>src/map/mapHeatmap.qml</file>
+        <file>src/map/mapTrajectory.qml</file>
+    </qresource>
+</RCC>
